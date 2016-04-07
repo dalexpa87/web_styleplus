@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body{
+	background:#212121
+}
+p {
+  margin-bottom: 20px;
+}
+#banner{
+	width: 100%;
+}
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .-icons {
+  font-size: inherit;
+}
+
+#secstyleplus{
+	height: 300px;
+}
